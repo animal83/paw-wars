@@ -13,8 +13,8 @@ Paw Wars is a game that takes place in a world where dogs are the ruling class a
 ## :heart_eyes_cat: Technical Information
 
 ### Requirements
-* [Node.js](https://nodejs.org/en/) (Version 8 and up recommended)
-* [MongoDB](https://www.mongodb.com/) (With a database called "PawWars")
+* [Node.js](https://nodejs.org/en/) (Version 10 and up recommended)
+* [MongoDB](https://www.mongodb.com/) (With a database called "PawWars", or change the database at `config.json`)
 
 ### Recommendations
 * [Auth0 Account](https://auth0.com/) (for OAuth)
